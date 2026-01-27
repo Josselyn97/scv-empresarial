@@ -15,3 +15,8 @@ técnicas avanzadas de Git y control de versiones.
 - Git 2.40+
 - GPG (firmas criptográficas)
 - GitHub Actions (CI/CD)
+
+
+## Desarrolladoras 
+- Karen
+- Josselyn
