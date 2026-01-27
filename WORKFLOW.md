@@ -17,4 +17,3 @@
 ## Lecciones aprendidas
 -	El rebase es poderoso pero peligroso en ramas compartidas
 -	Siempre verificar con reflog antes de entrar en pánico
--	...
