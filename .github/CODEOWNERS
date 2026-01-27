@@ -1,0 +1,13 @@
+
+# CODEOWNERS - scv-empresarial
+# Propietarios globales (ambos miembros del equipo)
+* @Josselyn97 @KarenGilces
+
+# Propietarios por área de responsabilidad
+/src/ @Josselyn97
+/docs/ @KarenGilces
+/tests/ @Josselyn97 @KarenGilces
+
+# Archivos críticos requieren ambos reviewers
+CONTRIBUTING.md @Josselyn97 @KarenGilces
+README.md @Josselyn97 @KarenGilces
