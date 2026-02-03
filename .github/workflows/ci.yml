@@ -22,14 +22,6 @@ jobs:
           echo "👤 Actor: ${{ github.actor }}"
           echo "📝 Commit: ${{ github.sha }}"
 
-      - name: Listar archivos del proyecto
-        run: |
-          echo "📂 Estructura del proyecto:"
-          ls -la
-          echo ""
-          echo "📂 Contenido de src/:"
-          ls -la src/
-
       - name: Verificar sintaxis JavaScript
         run: |
           echo "🔍 Verificando sintaxis de archivos JS..."
